@@ -1,0 +1,605 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is not a Fundamental Right under the Indian Constitution?",
+      "options": [
+        "Right to Equality",
+        "Right to Property",
+        "Right to Freedom",
+        "Right against Exploitation"
+      ],
+      "correct": 1,
+      "explanation": "Right to Property was removed from the list of Fundamental Rights by the 44th Constitutional Amendment Act, 1978."
+    },
+    {
+      "id": 2,
+      "question": "The Comptroller and Auditor General of India is appointed by:",
+      "options": [
+        "The Prime Minister",
+        "The President",
+        "The Parliament",
+        "The Supreme Court"
+      ],
+      "correct": 1,
+      "explanation": "The Comptroller and Auditor General of India is appointed by the President under Article 148."
+    },
+    {
+      "id": 3,
+      "question": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 32",
+        "Article 356"
+      ],
+      "correct": 2,
+      "explanation": "Article 32 provides the Right to Constitutional Remedies and is called the heart and soul of the Constitution."
+    },
+    {
+      "id": 4,
+      "question": "The concept of Judicial Review in India has been borrowed from:",
+      "options": [
+        "Britain",
+        "USA",
+        "Ireland",
+        "Canada"
+      ],
+      "correct": 1,
+      "explanation": "Judicial Review is borrowed from the Constitution of the United States."
+    },
+    {
+      "id": 5,
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Vice-President",
+        "Chief Justice of India"
+      ],
+      "correct": 2,
+      "explanation": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+      "id": 6,
+      "question": "Which Schedule of the Indian Constitution deals with the division of powers between the Union and the States?",
+      "options": [
+        "Seventh Schedule",
+        "Eighth Schedule",
+        "Tenth Schedule",
+        "Sixth Schedule"
+      ],
+      "correct": 0,
+      "explanation": "The Seventh Schedule contains the Union, State, and Concurrent Lists."
+    },
+    {
+      "id": 7,
+      "question": "The term of the Lok Sabha is:",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "Until dissolved"
+      ],
+      "correct": 1,
+      "explanation": "The normal term of the Lok Sabha is five years unless dissolved earlier."
+    },
+    {
+      "id": 8,
+      "question": "Which Amendment Act lowered the voting age from 21 to 18 years?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "61st Amendment",
+        "73rd Amendment"
+      ],
+      "correct": 2,
+      "explanation": "The 61st Constitutional Amendment Act, 1988 reduced the voting age to 18 years."
+    },
+    {
+      "id": 9,
+      "question": "Which body resolves disputes between the Centre and the States?",
+      "options": [
+        "High Court",
+        "Supreme Court",
+        "Inter-State Council",
+        "Election Commission"
+      ],
+      "correct": 1,
+      "explanation": "The Supreme Court has original jurisdiction in Centre-State disputes."
+    },
+    {
+      "id": 10,
+      "question": "Who administers the oath of office to the President of India?",
+      "options": [
+        "Prime Minister",
+        "Vice-President",
+        "Chief Justice of India",
+        "Speaker of Lok Sabha"
+      ],
+      "correct": 2,
+      "explanation": "The Chief Justice of India administers the oath to the President."
+    },
+    {
+      "id": 11,
+      "question": "The Directive Principles of State Policy are borrowed from the Constitution of:",
+      "options": [
+        "USA",
+        "Ireland",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 1,
+      "explanation": "Directive Principles of State Policy are borrowed from the Irish Constitution."
+    },
+    {
+      "id": 12,
+      "question": "Which Article deals with the impeachment of the President?",
+      "options": [
+        "Article 52",
+        "Article 61",
+        "Article 72",
+        "Article 356"
+      ],
+      "correct": 1,
+      "explanation": "Article 61 of the Constitution deals with the impeachment of the President."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a non-constitutional body?",
+      "options": [
+        "Election Commission",
+        "Finance Commission",
+        "Planning Commission",
+        "Union Public Service Commission"
+      ],
+      "correct": 2,
+      "explanation": "The Planning Commission was a non-constitutional body."
+    },
+    {
+      "id": 14,
+      "question": "Which Fundamental Right is known as the 'Heart of the Constitution'?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Constitutional Remedies",
+        "Right to Life"
+      ],
+      "correct": 2,
+      "explanation": "Dr. B.R. Ambedkar described Article 32 as the heart and soul of the Constitution."
+    },
+    {
+      "id": 15,
+      "question": "Who appoints the Chief Election Commissioner of India?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Parliament",
+        "Supreme Court"
+      ],
+      "correct": 1,
+      "explanation": "The Chief Election Commissioner is appointed by the President of India."
+    },
+    {
+      "id": 16,
+      "question": "The Indian Constitution is:",
+      "options": [
+        "Rigid",
+        "Flexible",
+        "Neither rigid nor flexible",
+        "Both rigid and flexible"
+      ],
+      "correct": 3,
+      "explanation": "The Indian Constitution is partly rigid and partly flexible."
+    },
+    {
+      "id": 17,
+      "question": "Which Article provides for the establishment of the Supreme Court?",
+      "options": [
+        "Article 124",
+        "Article 214",
+        "Article 226",
+        "Article 32"
+      ],
+      "correct": 0,
+      "explanation": "Article 124 provides for the establishment and constitution of the Supreme Court."
+    },
+    {
+      "id": 18,
+      "question": "Who is the head of the State Executive?",
+      "options": [
+        "Chief Minister",
+        "Governor",
+        "President",
+        "Chief Secretary"
+      ],
+      "correct": 1,
+      "explanation": "The Governor is the constitutional head of the State Executive."
+    },
+    {
+      "id": 19,
+      "question": "Which schedule contains the languages recognized by the Constitution?",
+      "options": [
+        "Seventh Schedule",
+        "Eighth Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule"
+      ],
+      "correct": 1,
+      "explanation": "The Eighth Schedule contains the list of recognized languages."
+    },
+    {
+      "id": 20,
+      "question": "The concept of Single Citizenship in India is borrowed from:",
+      "options": [
+        "USA",
+        "Britain",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 1,
+      "explanation": "India follows the British model of single citizenship."
+    },
+
+    {
+      "id": 21,
+      "question": "Which Amendment Act added the Tenth Schedule to the Constitution?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment",
+        "61st Amendment"
+      ],
+      "correct": 2,
+      "explanation": "The 52nd Constitutional Amendment Act, 1985 added the Tenth Schedule (Anti-Defection Law)."
+    },
+    {
+      "id": 22,
+      "question": "Who presides over the joint sitting of Parliament?",
+      "options": [
+        "President",
+        "Vice-President",
+        "Speaker of Lok Sabha",
+        "Chairman of Rajya Sabha"
+      ],
+      "correct": 2,
+      "explanation": "The Speaker of the Lok Sabha presides over joint sittings."
+    },
+    {
+      "id": 23,
+      "question": "Which Article deals with the proclamation of National Emergency?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 368"
+      ],
+      "correct": 0,
+      "explanation": "Article 352 deals with the proclamation of National Emergency."
+    },
+    {
+      "id": 24,
+      "question": "Which body prepares the Union Budget?",
+      "options": [
+        "Planning Commission",
+        "Finance Commission",
+        "Ministry of Finance",
+        "NITI Aayog"
+      ],
+      "correct": 2,
+      "explanation": "The Union Budget is prepared by the Ministry of Finance."
+    },
+    {
+      "id": 25,
+      "question": "The Chief Justice of India is appointed by:",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Parliament",
+        "Collegium System"
+      ],
+      "correct": 1,
+      "explanation": "The Chief Justice of India is appointed by the President."
+    },
+    {
+      "id": 26,
+      "question": "Which Fundamental Duty was added by the 42nd Amendment?",
+      "options": [
+        "To protect environment",
+        "To promote harmony",
+        "To safeguard public property",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The 42nd Amendment Act added Fundamental Duties under Article 51A."
+    },
+    {
+      "id": 27,
+      "question": "Which writ is issued to prevent a lower court from exceeding its jurisdiction?",
+      "options": [
+        "Habeas Corpus",
+        "Mandamus",
+        "Prohibition",
+        "Quo Warranto"
+      ],
+      "correct": 2,
+      "explanation": "The writ of Prohibition prevents lower courts from exceeding jurisdiction."
+    },
+    {
+      "id": 28,
+      "question": "Which Article abolishes Untouchability?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 17",
+        "Article 21"
+      ],
+      "correct": 2,
+      "explanation": "Article 17 abolishes untouchability and its practice in any form."
+    },
+    {
+      "id": 29,
+      "question": "The Finance Commission is constituted every:",
+      "options": [
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
+      ],
+      "correct": 2,
+      "explanation": "The Finance Commission is constituted every five years."
+    },
+    {
+      "id": 30,
+      "question": "Who appoints the Governor of a State?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Chief Minister",
+        "Parliament"
+      ],
+      "correct": 1,
+      "explanation": "The Governor of a State is appointed by the President of India."
+    },
+    {
+      "id": 31,
+      "question": "Which part of the Constitution deals with Fundamental Rights?",
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part V"
+      ],
+      "correct": 1,
+      "explanation": "Part III of the Constitution deals with Fundamental Rights."
+    },
+    {
+      "id": 32,
+      "question": "The concept of Concurrent List is borrowed from:",
+      "options": [
+        "USA",
+        "Canada",
+        "Australia",
+        "Britain"
+      ],
+      "correct": 2,
+      "explanation": "The Concurrent List is borrowed from the Australian Constitution."
+    },
+    {
+      "id": 33,
+      "question": "Who is the legal advisor to the Government of India?",
+      "options": [
+        "Solicitor General",
+        "Attorney General",
+        "Chief Justice of India",
+        "Law Minister"
+      ],
+      "correct": 1,
+      "explanation": "The Attorney General of India is the chief legal advisor to the Government."
+    },
+    {
+      "id": 34,
+      "question": "Which Article deals with the amendment of the Constitution?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 368",
+        "Article 370"
+      ],
+      "correct": 2,
+      "explanation": "Article 368 provides the procedure for constitutional amendments."
+    },
+    {
+      "id": 35,
+      "question": "Which body conducts elections in India?",
+      "options": [
+        "Parliament",
+        "Supreme Court",
+        "Election Commission",
+        "Union Public Service Commission"
+      ],
+      "correct": 2,
+      "explanation": "The Election Commission of India conducts elections."
+    },
+    {
+      "id": 36,
+      "question": "The minimum age to become the President of India is:",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "correct": 2,
+      "explanation": "The minimum age to become President of India is 35 years."
+    },
+    {
+      "id": 37,
+      "question": "Which emergency has been proclaimed most frequently in India?",
+      "options": [
+        "National Emergency",
+        "President’s Rule",
+        "Financial Emergency",
+        "None"
+      ],
+      "correct": 1,
+      "explanation": "President’s Rule under Article 356 has been imposed most frequently."
+    },
+    {
+      "id": 38,
+      "question": "Which schedule deals with the Anti-Defection Law?",
+      "options": [
+        "Ninth Schedule",
+        "Tenth Schedule",
+        "Eleventh Schedule",
+        "Twelfth Schedule"
+      ],
+      "correct": 1,
+      "explanation": "The Tenth Schedule deals with the Anti-Defection Law."
+    },
+    {
+      "id": 39,
+      "question": "Who appoints the Chief Justice of a High Court?",
+      "options": [
+        "Governor",
+        "Chief Minister",
+        "President",
+        "Chief Justice of India"
+      ],
+      "correct": 2,
+      "explanation": "The Chief Justice of a High Court is appointed by the President."
+    },
+    {
+      "id": 40,
+      "question": "Which Article provides for free legal aid?",
+      "options": [
+        "Article 21",
+        "Article 39A",
+        "Article 32",
+        "Article 14"
+      ],
+      "correct": 1,
+      "explanation": "Article 39A directs the State to provide free legal aid."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is a feature of Parliamentary form of government?",
+      "options": [
+        "Separation of powers",
+        "Fixed tenure",
+        "Collective responsibility",
+        "Judicial supremacy"
+      ],
+      "correct": 2,
+      "explanation": "Collective responsibility of the Council of Ministers is a key feature."
+    },
+    {
+      "id": 42,
+      "question": "The President of India can be impeached for:",
+      "options": [
+        "Violation of Constitution",
+        "Corruption",
+        "Incapacity",
+        "All of the above"
+      ],
+      "correct": 0,
+      "explanation": "The President can be impeached only for violation of the Constitution."
+    },
+    {
+      "id": 43,
+      "question": "Which Fundamental Right is available only to citizens?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Life"
+      ],
+      "correct": 1,
+      "explanation": "Right to Freedom under Article 19 is available only to citizens."
+    },
+    {
+      "id": 44,
+      "question": "Which body advises the President on financial matters?",
+      "options": [
+        "Planning Commission",
+        "Finance Commission",
+        "NITI Aayog",
+        "Election Commission"
+      ],
+      "correct": 1,
+      "explanation": "The Finance Commission advises the President on financial matters."
+    },
+    {
+      "id": 45,
+      "question": "Which Article deals with equality before law?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "correct": 0,
+      "explanation": "Article 14 guarantees equality before law and equal protection of laws."
+    },
+    {
+      "id": 46,
+      "question": "Which institution replaced the Planning Commission?",
+      "options": [
+        "Finance Commission",
+        "NITI Aayog",
+        "Economic Advisory Council",
+        "GST Council"
+      ],
+      "correct": 1,
+      "explanation": "NITI Aayog replaced the Planning Commission in 2015."
+    },
+    {
+      "id": 47,
+      "question": "Who is the custodian of the Constitution of India?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Supreme Court",
+        "Parliament"
+      ],
+      "correct": 2,
+      "explanation": "The Supreme Court is the custodian and interpreter of the Constitution."
+    },
+    {
+      "id": 48,
+      "question": "Which Amendment Act is known as the 'Mini Constitution'?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment",
+        "61st Amendment"
+      ],
+      "correct": 0,
+      "explanation": "The 42nd Constitutional Amendment Act is known as the Mini Constitution."
+    },
+    {
+      "id": 49,
+      "question": "Which Article provides special status to Scheduled Castes and Scheduled Tribes?",
+      "options": [
+        "Article 14",
+        "Article 15(4)",
+        "Article 16(4)",
+        "Both 15(4) and 16(4)"
+      ],
+      "correct": 3,
+      "explanation": "Articles 15(4) and 16(4) provide special provisions for SCs and STs."
+    },
+    {
+      "id": 50,
+      "question": "The Indian Constitution was adopted on:",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "26 November 1949",
+        "2 October 1950"
+      ],
+      "correct": 2,
+      "explanation": "The Constitution of India was adopted on 26 November 1949."
+    }
+  ]
+}

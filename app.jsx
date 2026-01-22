@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
+import ReactDOM from 'react-dom/client';
 import { CheckCircle, XCircle, RotateCcw, Award } from 'lucide-react';
-
+import './index.css';
 
 export default function UPSCQuizApp() {
   const [questions, setQuestions] = useState([]);
@@ -21,7 +22,7 @@ export default function UPSCQuizApp() {
     try {
       setLoading(true);
       setError(null);
-      const response = await fetch('/public/questions.json');
+      const response = await fetch('/questions.json');
       if (!response.ok) {
         throw new Error('Failed to load questions');
       }
