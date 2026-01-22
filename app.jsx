@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { CheckCircle, XCircle, RotateCcw, Award } from 'lucide-react';
-import ReactDOM from 'react-dom/client';
-import UPSCQuizApp from './app.jsx';
+
 
 export default function UPSCQuizApp() {
   const [questions, setQuestions] = useState([]);
