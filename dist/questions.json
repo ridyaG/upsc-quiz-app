@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is not a Fundamental Right under the Indian Constitution?",
+      "options": [
+        "Right to Equality",
+        "Right to Property",
+        "Right to Freedom",
+        "Right against Exploitation"
+      ],
+      "correct": 1,
+      "explanation": "Right to Property was removed from Fundamental Rights by the 44th Amendment Act, 1978."
+    },
+    {
+      "id": 2,
+      "question": "The Comptroller and Auditor General of India is appointed by:",
+      "options": [
+        "The Prime Minister",
+        "The President",
+        "The Parliament",
+        "The Supreme Court"
+      ],
+      "correct": 1,
+      "explanation": "The CAG is appointed by the President of India."
+    },
+    {
+      "id": 3,
+      "question": "Which Article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 32",
+        "Article 356"
+      ],
+      "correct": 2,
+      "explanation": "Article 32 provides the Right to Constitutional Remedies, also known as the 'heart and soul' of the Constitution."
+    }
+  ]
+}
